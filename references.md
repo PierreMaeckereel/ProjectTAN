@@ -6,3 +6,7 @@
 ## Auralisation
 
 * http://www.odeon.dk/moving-directional-sound
+
+## Technical Documentation
+
+* http://apprendre-python.com/page-tkinter-interface-graphique-python-tutoriel
